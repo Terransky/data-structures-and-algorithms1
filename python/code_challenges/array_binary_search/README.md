@@ -1,4 +1,4 @@
-f# Binary Search an Array
+# Binary Search an Array
 Define a function that accepts an assorted list and key search term as arguments and returns the
 index of the matching value or -1 if not found
 
